@@ -65,7 +65,7 @@ public class MainActivity extends AppCompatActivity {
     }
 
 
-    //点击空白处可以隐藏软键盘
+    //点击空白处可以隐藏软键盘  但是目前还不知道怎么实现
 /*    InputMethodManager imm = (InputMethodManager) getSystemService(Context.INPUT_METHOD_SERVICE);
 
     @Override
