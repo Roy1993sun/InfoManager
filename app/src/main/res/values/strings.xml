@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">InfoManager</string>
+
+    <string name="Head">信息管理系统</string>
+    <string name="action_settings">Settings</string>
+    <string name="name">输入姓名</string>
+    <string name="inputphone">输入手机号</string>
+    <string name="inputid">输入ID</string>
+    <string name="add">添加</string>
+    <string name="clear">清空</string>
+</resources>
